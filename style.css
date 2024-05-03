@@ -1,0 +1,27 @@
+body {
+    font-family: sans-serif;
+}
+
+a {
+    text-decoration:none;
+    color: #60D4AE;
+}
+
+header{
+    background-color:#207F60;
+    font-size: 26px;
+    padding-top: 19px;
+   padding-bottom:19px
+
+
+}
+
+footer{
+    background-color: #60D4AE;
+    padding: 13px;
+}
+
+nav{
+    background-color: #006E4A;
+    padding: 20px;
+}
